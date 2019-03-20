@@ -200,7 +200,7 @@
 				<artifactId>tomcat-maven-plugin</artifactId>
 				<configuration>
 					<url>http://127.0.0.1:8080/manager/text</url>
-					<path>/guestbook</path>
+					<path>/guestbook4</path>
 					<username>webmaster</username>
 					<password>webmaster</password>
 				</configuration>
